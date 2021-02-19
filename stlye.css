@@ -1,0 +1,26 @@
+/*  */
+.title {
+  margin-top: 5rem;
+}
+
+#instructions {
+  margin-top: 10rem;
+  text-align: center;
+}
+
+#begin {
+  font-size: 1.5rem;
+  margin-top: 5rem;
+}
+
+
+
+
+
+
+
+
+/* hides these sections until needed */
+#quiz, #result, #finished, #scores {
+  display: none;
+}
